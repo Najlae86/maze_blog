@@ -95,6 +95,6 @@ About Me
 I'm a software developer with a passion for problem-solving and creating engaging user experiences. I have a strong background in C and have worked on various projects ranging from web development to game design. My ultimate goal is to merge my technical skills with my love for gaming to create immersive, interactive experiences for users.
 
 Links
-•	GitHub Repository: The Maze Game Code
-•	Project Landing Page: Project overview
-•	LinkedIn Profile: Connect with Me
+•	GitHub Repository: [The Maze Game Code](https://github.com/Najlae86/maze_project)
+•	Project Landing Page: [Project overview](https://najlae86.github.io/maze_project/)
+•	LinkedIn Profile: [Connect with Me](https://www.linkedin.com/in/najlae-a-85a646202/)
